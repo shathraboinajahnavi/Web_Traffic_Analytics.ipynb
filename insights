@@ -1,0 +1,9 @@
+print("""
+KEY INSIGHTS:
+
+1. Most users spend limited time on website pages.
+2. Pages with low session duration indicate poor engagement.
+3. Certain pages have high drop-off rates.
+4. A few pages dominate user traffic flow.
+5. Improving weak pages can increase engagement.
+""")
