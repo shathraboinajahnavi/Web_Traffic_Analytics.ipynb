@@ -1,0 +1,19 @@
+# Web Traffic Analytics
+
+## Objective
+Analyze website traffic to understand user behavior and improve engagement.
+
+## Tools
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Analysis Performed
+- Page views analysis
+- Session duration analysis
+- Drop-off detection
+- User journey mapping
+
+## Outcome
+Identified user behavior patterns and key drop-off points to improve website engagement.
